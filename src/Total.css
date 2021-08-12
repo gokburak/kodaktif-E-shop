@@ -42,3 +42,24 @@
     align-items: center;
     font-weight: bold;
 }
+.money{
+    display: flex;
+    align-items: center;
+}
+.money p {
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+.freeShipping{
+    font-weight:bold ;
+    color: green;
+    font-size: 1rem;
+    display: none;
+}
+.cargoPriceDelete{
+    text-decoration:line-through ;
+}
+.visible{
+    display: block;
+    text-decoration: none;
+}

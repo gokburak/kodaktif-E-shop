@@ -69,11 +69,12 @@
     left: 0%;
     background: red;
     color: white;
-    height: 50px;
+    height: 30px;
     border: none;
     border-radius: 10px;
     cursor: pointer;
     transition: 0.3s ease;
+    width: 50px;
 }
 .delete:hover{
     background: rgb(228, 95, 95);
